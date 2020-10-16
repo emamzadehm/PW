@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PW.ApplicationContracts/1.0.0": {
+        "runtime": {
+          "PW.ApplicationContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PW.ApplicationContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

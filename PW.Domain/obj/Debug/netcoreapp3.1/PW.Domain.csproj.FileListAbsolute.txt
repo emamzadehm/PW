@@ -1,0 +1,12 @@
+F:\Projects\PW\PW\PW.Domain\bin\Debug\netcoreapp3.1\PW.Domain.deps.json
+F:\Projects\PW\PW\PW.Domain\bin\Debug\netcoreapp3.1\PW.Domain.dll
+F:\Projects\PW\PW\PW.Domain\bin\Debug\netcoreapp3.1\PW.Domain.pdb
+F:\Projects\PW\PW\PW.Domain\bin\Debug\netcoreapp3.1\01_Framework.dll
+F:\Projects\PW\PW\PW.Domain\bin\Debug\netcoreapp3.1\01_Framework.pdb
+F:\Projects\PW\PW\PW.Domain\obj\Debug\netcoreapp3.1\PW.Domain.csprojAssemblyReference.cache
+F:\Projects\PW\PW\PW.Domain\obj\Debug\netcoreapp3.1\PW.Domain.AssemblyInfoInputs.cache
+F:\Projects\PW\PW\PW.Domain\obj\Debug\netcoreapp3.1\PW.Domain.AssemblyInfo.cs
+F:\Projects\PW\PW\PW.Domain\obj\Debug\netcoreapp3.1\PW.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\PW\PW\PW.Domain\obj\Debug\netcoreapp3.1\PW.Domain.csproj.CopyComplete
+F:\Projects\PW\PW\PW.Domain\obj\Debug\netcoreapp3.1\PW.Domain.dll
+F:\Projects\PW\PW\PW.Domain\obj\Debug\netcoreapp3.1\PW.Domain.pdb

@@ -1,0 +1,9 @@
+F:\Projects\PW\PW\PW.ApplicationContracts\bin\Debug\netcoreapp3.1\PW.ApplicationContracts.deps.json
+F:\Projects\PW\PW\PW.ApplicationContracts\bin\Debug\netcoreapp3.1\PW.ApplicationContracts.dll
+F:\Projects\PW\PW\PW.ApplicationContracts\bin\Debug\netcoreapp3.1\PW.ApplicationContracts.pdb
+F:\Projects\PW\PW\PW.ApplicationContracts\obj\Debug\netcoreapp3.1\PW.ApplicationContracts.AssemblyInfoInputs.cache
+F:\Projects\PW\PW\PW.ApplicationContracts\obj\Debug\netcoreapp3.1\PW.ApplicationContracts.AssemblyInfo.cs
+F:\Projects\PW\PW\PW.ApplicationContracts\obj\Debug\netcoreapp3.1\PW.ApplicationContracts.csproj.CoreCompileInputs.cache
+F:\Projects\PW\PW\PW.ApplicationContracts\obj\Debug\netcoreapp3.1\PW.ApplicationContracts.dll
+F:\Projects\PW\PW\PW.ApplicationContracts\obj\Debug\netcoreapp3.1\PW.ApplicationContracts.pdb
+F:\Projects\PW\PW\PW.ApplicationContracts\obj\Debug\netcoreapp3.1\PW.ApplicationContracts.csprojAssemblyReference.cache
