@@ -7,3 +7,12 @@ F:\Projects\PW\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.csproj.CoreC
 F:\Projects\PW\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.dll
 F:\Projects\PW\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.pdb
 F:\Projects\PW\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.csprojAssemblyReference.cache
+F:\Projects\PW\01_Framework\bin\Debug\netcoreapp3.1\01_Framework.deps.json
+F:\Projects\PW\01_Framework\bin\Debug\netcoreapp3.1\01_Framework.dll
+F:\Projects\PW\01_Framework\bin\Debug\netcoreapp3.1\01_Framework.pdb
+F:\Projects\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.csprojAssemblyReference.cache
+F:\Projects\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.AssemblyInfoInputs.cache
+F:\Projects\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.AssemblyInfo.cs
+F:\Projects\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.csproj.CoreCompileInputs.cache
+F:\Projects\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.dll
+F:\Projects\PW\01_Framework\obj\Debug\netcoreapp3.1\01_Framework.pdb
